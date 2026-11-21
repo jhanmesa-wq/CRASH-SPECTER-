@@ -1,0 +1,23 @@
+WhatsApp Version: 2.3000.1047787617
+Sources fetched: 10
+Modules: 53
+Messages/Enums: 231
+Rich/Interactive matches: 8
+Syntax: proto2
+
+Categorías:
+  other: 101
+  identity: 7
+  interactive: 8
+  ai: 26
+  business: 6
+  bot: 43
+  call: 1
+  protocol: 18
+  event: 2
+  group: 6
+  media: 7
+  poll: 3
+  status: 3
+
+Output: /storage/emulated/0/WhatsApp/proto-results
